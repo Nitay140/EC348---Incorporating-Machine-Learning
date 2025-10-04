@@ -1,4 +1,4 @@
-# EC348---Incorporating-Machine-Learning
+# EC348 Incorporating-Machine-Learning
 
 This repository contains projects and exercises where I extend concepts taught in **EC348: Research in Policy Evaluation (Extension of Econometrics)** at the **University of Warwick** into practical **machine learning tasks**. The goal is to improve my **ML programming skills** while applying econometric methods to real-world datasets.
 
